@@ -44,4 +44,4 @@
    - The end tag is written like the start tag, but with a forward slash inserted before the tag name.
    
    
-   <img src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg&fm=jpg">
+   <img src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=grayscale-photo-of-computer-laptop-near-white-notebook-and-169573.jpg&fm=jpg" alt="image>
