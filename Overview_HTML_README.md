@@ -49,3 +49,4 @@
 - It must only appear once, at the top of the page (before any HTML tags).
 - The `<!DOCTYPE>` declaration is not case sensitive.
 - The `<!DOCTYPE>` declaration for HTML5 is:
+#### **`<!DOCTYPE>`**
