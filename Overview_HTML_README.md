@@ -44,3 +44,8 @@
    - The end tag is written like the start tag, but with a forward slash inserted before the tag name.
    
    
+### The `<!DOCTYPE>` Declaration
+- The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
+- It must only appear once, at the top of the page (before any HTML tags).
+- The `<!DOCTYPE>` declaration is not case sensitive.
+- The `<!DOCTYPE>` declaration for HTML5 is:
