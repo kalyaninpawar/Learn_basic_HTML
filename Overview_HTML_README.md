@@ -72,5 +72,11 @@
   - All HTML documents must start with a document type declaration: <!DOCTYPE html>.
   - The HTML document itself begins with <html> and ends with </html>.
   - The visible part of the HTML document is between <body> and </body>. 
-
-
+  
+        <!DOCTYPE html>
+        <html>
+        <body>
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
+        </body>
+        </html> 
