@@ -61,11 +61,11 @@
 > - 1999 W3C Recommendation: HTML 4.01
 > - 2000 W3C Recommendation: XHTML 1.0
 > - 2008 WHATWG HTML5 First Public Draft
-#### 2012 WHATWG HTML5 Living Standard
-#### 2014 W3C Recommendation: HTML5
-#### 2016 W3C Candidate Recommendation: HTML 5.1
-#### 2017 W3C Recommendation: HTML5.1 2nd Edition
-#### 2017 W3C Recommendation: HTML5.2
+> - 2012 WHATWG HTML5 Living Standard
+> - 2014 W3C Recommendation: HTML5
+> - 2016 W3C Candidate Recommendation: HTML 5.1
+> - 2017 W3C Recommendation: HTML5.1 2nd Edition
+> - 2017 W3C Recommendation: HTML5.2
 
 
 
