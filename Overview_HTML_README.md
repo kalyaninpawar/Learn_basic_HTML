@@ -53,8 +53,8 @@
 
 
 ### Year 	Version
-#### 1989 Tim Berners-Lee invented www
-#### 1991 Tim Berners-Lee invented HTML
+> - 1989 Tim Berners-Lee invented www
+> - 1991 Tim Berners-Lee invented HTML
 #### 1993 Dave Raggett drafted HTML+
 #### 1995 HTML Working Group defined HTML 2.0
 #### 1997 W3C Recommendation: HTML 3.2
