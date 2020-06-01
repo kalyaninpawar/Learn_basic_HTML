@@ -92,4 +92,7 @@
     <h3>This is heading 3</h3> 
  
 ## HTML Paragraphs
-### HTML paragraphs are defined with the `<p>` tag:
+#### HTML paragraphs are defined with the `<p>` tag:
+    
+    '<p>'This is a paragraph.'</p>'
+    '<p>'This is another paragraph.'</p>' 
