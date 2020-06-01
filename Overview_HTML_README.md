@@ -83,3 +83,7 @@
         <p>My first paragraph.</p>
         </body>
         </html> 
+## HTML Headings
+
+### HTML headings are defined with the <h1> to <h6> tags.
+#### <h1> defines the most important heading. <h6> defines the least important heading: 
